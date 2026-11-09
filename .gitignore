@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.vercel/
+*.log
+outputs/quizforge-deploy/
+work/
+docs/
+.env
+.env.*
+!.env.example
